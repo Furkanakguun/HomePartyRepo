@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">650579996690-bq5e6si1o1edejkttm9i8r48knm4bs8l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://homeparty-68792.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">650579996690</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNuW8A_JAsK9fSpZ6QcPZOaV9WWMeIxXc</string>
+    <string name="google_app_id" translatable="false">1:650579996690:android:da2222fbcd05fb792268cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNuW8A_JAsK9fSpZ6QcPZOaV9WWMeIxXc</string>
+    <string name="google_storage_bucket" translatable="false">homeparty-68792.appspot.com</string>
+    <string name="project_id" translatable="false">homeparty-68792</string>
+</resources>

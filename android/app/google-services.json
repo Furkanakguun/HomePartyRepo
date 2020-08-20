@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650579996690",
+    "firebase_url": "https://homeparty-68792.firebaseio.com",
+    "project_id": "homeparty-68792",
+    "storage_bucket": "homeparty-68792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650579996690:android:da2222fbcd05fb792268cb",
+        "android_client_info": {
+          "package_name": "com.homeparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650579996690-bq5e6si1o1edejkttm9i8r48knm4bs8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuW8A_JAsK9fSpZ6QcPZOaV9WWMeIxXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650579996690-bq5e6si1o1edejkttm9i8r48knm4bs8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
